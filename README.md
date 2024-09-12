@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @theonejoeybear
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on Java code
+- 📫 How to reach me 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
